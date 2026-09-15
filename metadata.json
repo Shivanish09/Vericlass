@@ -1,0 +1,11 @@
+{
+  "name": "VeriClass Attendance & Academic Portal",
+  "description": "Institutional attendance portal featuring real-time photo verification inside classrooms, location-based geofencing, student, teacher, and admin portals with branch & section academic tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
